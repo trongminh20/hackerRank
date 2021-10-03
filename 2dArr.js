@@ -1,0 +1,3 @@
+function calcHourGlass(arr) {
+
+}
